@@ -3235,7 +3235,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM022R60J104KE15D"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 69.85 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3750,7 +3750,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM022R60J104KE15D"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 64.77 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3965,7 +3965,7 @@
 				)
 			)
 		)
-		(property "Value" "SIT1051TK/3"
+		(property "Value" "TJA1051TK/3,118"
 			(at 101.6 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4110,7 +4110,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "PESD2CAN"
+		(property "Value" "PESD2CANFD24V-TR"
 			(at 137.16 86.9314 90)
 			(show_name no)
 			(do_not_autoplace no)

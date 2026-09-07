@@ -2076,7 +2076,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM022R60J104KE15D"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 115.57 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -2443,7 +2443,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM022R60J104KE15D"
+		(property "MPN" "CL05B104KO5NNNC"
 			(at 106.68 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -2829,7 +2829,7 @@
 				)
 			)
 		)
-		(property "Value" "27nH"
+		(property "Value" "2.7nH"
 			(at 133.35 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
